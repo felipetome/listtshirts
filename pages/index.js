@@ -8,6 +8,7 @@ import {
 } from "../service/service";
 import Link from "next/link";
 import { useRouter } from "next/router";
+import Image from "next/image";
 
 export default function Home() {
   const [products, setProducts] = useState(getAllProducts());
@@ -59,10 +60,6 @@ export default function Home() {
   const handleColorClick = (color) => {
     handleFilterChange("cor", color);
     setIsColorOpen(false);
-  };
-
-  const teste = (id) => {
-    console.log(id);
   };
 
   return (
@@ -182,12 +179,12 @@ export default function Home() {
         <h1 className="text-3xl font-semibold mb-8 text-gray-800">Produtos</h1>
         <div className="grid grid-cols-4 gap-4">
           {products.map((product) => (
-            <Link href={`/product/${product.id}`}>
+            <Link href={`/product/${product.id}`}  key={product.id}>
               <div
                 key={product.id}
                 className="bg-white p-4 shadow-md rounded-lg transform transition-transform duration-300 hover:shadow-xl hover:-translate-y-100 hover:bg-gray-100 hover:scale-105"
               >
-                <img
+                <Image
                   src={product.thumbnail}
                   alt={product.title}
                   className="w-full aspect-w-1 aspect-h-1 object-cover"
