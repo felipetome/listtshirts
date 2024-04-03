@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Camiseta Homem-Aranha",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_feminina_unissex_spider_man_logo_homem_aranha_marvel_preta_ev_90817_1_c8ad5d3caff7e0e17c1e82be34fc0801.jpg",
+      "size": "P",
+      "color": "Branco",
+      "price": 49.9,
+      "description": "A camiseta do herói aracnídeo favorito, perfeita para os fãs."
+    },
+    {
+      "id": 2,
+      "title": "Camiseta Batman",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_masculina_unissex_logo_the_batman_dc_comics_preta_ev_91107_1_68f479abc089a979532294f7eec2479b.jpg",
+      "size": "M",
+      "color": "Preto",
+      "price": 59.9,
+      "description": "Mostre seu lado sombrio com esta camiseta do Cavaleiro das Trevas."
+    },
+    {
+      "id": 3,
+      "title": "Camiseta Superman",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_superman_dc_comics_63063_1_20201211172625.jpg",
+      "size": "G",
+      "color": "Azul",
+      "price": 69.9,
+      "description": "Vista-se como o herói mais poderoso da Terra com esta camiseta."
+    },
+    {
+      "id": 4,
+      "title": "Camiseta Mulher-Maravilha",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_feminina_unissex_wonder_woman_rocking_out_rock_and_roll_guitar_star_mulher_maravilha_preta__87401_1_429f2459050bb5c8b74339c454a2cd6b.jpg",
+      "size": "GG",
+      "color": "Branco",
+      "price": 59.9,
+      "description": "Sinta-se poderosa com esta camiseta da Princesa Amazona."
+    },
+    {
+      "id": 5,
+      "title": "Camiseta Hulk",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_masculina_unissex_wolverine_iron_man_hulk_e_spider_man_marvel_preta_ev_76205_1_d16337d97863f207e5b9ec3b3a9c8df6.jpg",
+      "size": "P",
+      "color": "Verde",
+      "price": 39.9,
+      "description": "Expresse sua força com esta camiseta do Gigante Esmeralda."
+    },
+    {
+      "id": 6,
+      "title": "Camiseta Capitão América",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_capitao_america_worthy_marvel_exclusiva_toyshow_45796_1_20201211172544.jpg",
+      "size": "M",
+      "color": "Azul",
+      "price": 49.9,
+      "description": "Mostre seu patriotismo com esta camiseta do Capitão."
+    },
+    {
+      "id": 7,
+      "title": "Camiseta Homem de Ferro",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_homem_de_ferro_i_am_iron_man_marvel_exclusiva_toyshow_45798_1_20201211172544.jpg",
+      "size": "G",
+      "color": "Vermelho",
+      "price": 59.9,
+      "description": "Seja o gênio, bilionário, playboy e filantropo com esta camiseta."
+    },
+    {
+      "id": 8,
+      "title": "Camiseta Flash",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_unissex_flash_dc_comics_56405_1_20201211172604.jpg",
+      "size": "GG",
+      "color": "Vermelho",
+      "price": 69.9,
+      "description": "Corra em alta velocidade com esta camiseta do Velocista Escarlate."
+    },
+    {
+      "id": 9,
+      "title": "Camiseta Mulher-Gato",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_feminina_unissex_catwoman_jail_gotham_city_police_mulher_gato_preta_ev_82273_1_b172e0117c2236a66ce0d4cade02a379.jpg",
+      "size": "P",
+      "color": "Preto",
+      "price": 49.9,
+      "description": "Seja misteriosa com esta camiseta da ladra felina."
+    },
+    {
+      "id": 10,
+      "title": "Camiseta Lanterna Verde",
+      "thumbnail": "https://images.tcdn.com.br/img/img_prod/460977/em_breve_estatua_lanterna_verde_green_lantern_dc_comics_artfx_statue_escala_1_6_kotobukiya_20035_1_20201211160321.png",
+      "size": "M",
+      "color": "Verde",
+      "price": 59.9,
+      "description": "Brilhe como membro da Tropa dos Lanternas Verdes com esta camiseta."
+    },
+    {
+      "id": 11,
+      "title": "Camiseta Thor",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_thor_still_worthy_marvel_exclusiva_toyshow_46673_1_20201211172544.jpg",
+      "size": "G",
+      "color": "Azul",
+      "price": 69.9,
+      "description": "Sinta-se digno com esta camiseta do Deus do Trovão."
+    },
+    {
+      "id": 12,
+      "title": "Camiseta Aquaman",
+      "thumbnail": "https://images.tcdn.com.br/img/img_prod/460977/estatua_aquaman_aquaman_dc_art_scale_1_10_iron_studios_40161_1_20201211183858.jpg",
+      "size": "GG",
+      "color": "Azul",
+      "price": 79.9,
+      "description": "Mergulhe nas profundezas do oceano com esta camiseta do Rei de Atlântida."
+    },
+    {
+      "id": 13,
+      "title": "Camiseta Capitã Marvel",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_feminina_unissex_captain_marvel_capita_marvel_preta_ev_84419_1_49f16aac2cb4fea25c4f668657c0fd18.jpg",
+      "size": "P",
+      "color": "Vermelho",
+      "price": 49.9,
+      "description": "Vista-se como a heroína mais poderosa do universo com esta camiseta."
+    },
+    {
+      "id": 14,
+      "title": "Camiseta Pantera Negra",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_feminina_unissex_black_panther_golden_pantera_negra_marvel_preta_ev_91101_1_70ed110376440ddeddab7b6ed47afed1.jpg",
+      "size": "M",
+      "color": "Preto",
+      "price": 59.9,
+      "description": "Mostre sua nobreza com esta camiseta do Rei de Wakanda."
+    },
+    {
+      "id": 15,
+      "title": "Camiseta Viúva Negra",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_masculina_unissex_homem_de_ferro_groot_rocket_viuva_negra_capitao_america_homem_aranha_aven_92703_1_64a82ab3a1c0e6f6f1e715c86d53ccb1.jpg",
+      "size": "G",
+      "color": "Preto",
+      "price": 69.9,
+      "description": "Seja furtiva com esta camiseta da espiã russa."
+    },
+    {
+      "id": 16,
+      "title": "Camiseta Doutor Estranho",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_masculina_unissex_e_se_homem_de_ferro_doutor_estranho_what_if_preta_ev_94061_1_ab456a2f72de98a6259c8a9509cae4e6.jpg",
+      "size": "GG",
+      "color": "Vermelho",
+      "price": 79.9,
+      "description": "Explore o mundo místico com esta camiseta do Mago Supremo."
+    },
+    {
+      "id": 17,
+      "title": "Camiseta Thanos",
+      "thumbnail": "https://static3.tcdn.com.br/img/img_prod/460977/camiseta_masculina_unissex_gangsta_thanos_marvel_comics_preta_ev_82065_1_8b5df41018254756f081a2f8d42843e0.jpeg",
+      "size": "P",
+      "color": "Roxo",
+      "price": 49.9,
+      "description": "Equilibre o universo com esta camiseta do Titã Louco."
+    },
+    {
+      "id": 18,
+      "title": "Camiseta Shazam",
+      "thumbnail": "https://images.tcdn.com.br/img/img_prod/460977/ima_dc_comics_shazam_7163_1_20201211174035.jpg",
+      "size": "M",
+      "color": "Vermelho",
+      "price": 59.9,
+      "description": "Transforme-se no herói com esta camiseta do Capitão Marvel."
+    },
+    {
+      "id": 19,
+      "title": "Camiseta Arqueiro Verde",
+      "thumbnail": "https://images.tcdn.com.br/img/img_prod/460977/arrow_arqueiro_verde_escala_1_6_threeq_16885_1_20201211172751.jpg",
+      "size": "G",
+      "color": "Verde",
+      "price": 69.9,
+      "description": "Acerte o alvo com esta camiseta do arqueiro habilidoso."
+    },
+    {
+      "id": 20,
+      "title": "Camiseta Deadpool",
+      "thumbnail": "https://images.tcdn.com.br/img/img_prod/460977/quadro_com_moldura_cinturao_deadpool_deadpool_o_filme_24x29_46018_1_20201211173648.jpeg",
+      "size": "GG",
+      "color": "Vermelho",
+      "price": 79.9,
+      "description": "Quebre a quarta parede com esta camiseta do Mercenário Tagarela."
+    }
+  ]
+}
