@@ -63,9 +63,9 @@ export default function Home() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen pl-72">
-      <div className="fixed left-0 top-0 h-full bg-gray-200 w-64">
-        <aside className="w-64 bg-gray-800 h-screen flex flex-col">
+    <div className="flex">
+      <div className="w-1/5 h-screen">
+      <aside className="w-full fixed md:w-auto lg:w-64 bg-gray-800 h-screen flex flex-col">
           <div className="p-4">
             <h2 className="text-white text-xl font-bold">Filtros</h2>
           </div>
@@ -175,16 +175,18 @@ export default function Home() {
           </nav>
         </aside>
       </div>
-      <div className="container mx-auto py-8">
-        <h1 className="text-3xl font-semibold mb-8 text-gray-800">Produtos</h1>
-        <div className="grid grid-cols-4 gap-4">
+      <div className="w-4/5 p-4">
+      <h1 className="text-3xl font-semibold mb-8 text-gray-800">Produtos</h1>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {products.map((product) => (
-            <Link href={`/product/${product.id}`}  key={product.id}>
+            <Link href={`/product/${product.id}`} key={product.id}>
               <div
                 key={product.id}
                 className="bg-white p-4 shadow-md rounded-lg transform transition-transform duration-300 hover:shadow-xl hover:-translate-y-100 hover:bg-gray-100 hover:scale-105"
               >
                 <Image
+                  width={300}
+                  height={300}
                   src={product.thumbnail}
                   alt={product.title}
                   className="w-full aspect-w-1 aspect-h-1 object-cover"
